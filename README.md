@@ -13,10 +13,6 @@ Getting Started
 #### Run Docker command
 Docker-compose up
 
-#### Setup up database
-`$ rails db:migrate`
-`$ rails db:seed`
-
 How to use
 ------
 - You have two options:
