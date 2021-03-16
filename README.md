@@ -5,10 +5,10 @@ Getting Started
 ------
 
 #### Clone The Repository
-`$ git clone https://github.com/9jaswag/pusher-chat.git`
+`git clone https://github.com/AhmedTarekSabek/Live-chat-App-using-ruby-on-rails-and-docker.git`
 
 #### Change directory
-`$ cd pusher-chat`
+`cd Live-chat-App-using-ruby-on-rails-and-docker`
 
 #### Run Docker command
 Docker-compose up
