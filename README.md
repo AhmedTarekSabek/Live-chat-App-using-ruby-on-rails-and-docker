@@ -20,7 +20,7 @@ How to use
   - Login with one of the 5 users emails in seeds (user-id@example.com) id = {1,2,3,4 or 5}
      and password: pass123
 - Then, chose any user to start chating with him.
-- signout from the current user and login to the user that you sent messages to him to continue,or
+- signout from the current user(you can signout by clicking in username that you are using in the right of the top navbar) and login to the user that you sent messages to him to continue,or
   you can open two windows and login with two different users and try
 
 Built With
